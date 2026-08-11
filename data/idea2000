@@ -1,0 +1,353 @@
+# I. BİLİŞİM VE DİJİTAL ALTYAPI DEVRİMİ (120 Madde)
+
+**Kişisel Bilgisayar Devrimi**
+1. Sinclair ZX80 Home Computer Launch (UK) 1980
+2. IBM Personal Computer Project Chess Development (USA) 1980
+3. Commodore VIC-20 Mass Market Distribution (USA) 1981
+4. Osborne 1 – The First Commercial Portable Computer (USA) 1981
+5. Commodore 64 8-Bit Home Computer Launch (USA) 1982
+6. ZX Spectrum Microcomputer Release (UK) 1982
+7. GRiD Compass 1101 Clamshell Laptop Release (USA) 1982
+8. Compaq Portable IBM-Compatible PC Release (USA) 1983
+9. Apple Lisa Graphical Workstation Release (USA) 1983
+10. Atari 800 Home Computer Expansion (USA) 1980
+11. Commodore PET Series Market Presence (USA) 1980
+12. Texas Instruments TI-99/4A Mass Market (USA) 1981
+13. Kaypro II Portable Computer Release (USA) 1982
+14. Apple IIe Release and Market Dominance (USA) 1983
+15. Tandy TRS-80 Model 100 Portable Launch (USA) 1983
+16. IBM PCjr Home Computer Attempt (USA) 1984
+17. Apple Macintosh 512K 'Fat Mac' Release (USA) 1984
+18. Amstrad CPC 464 Home Computer Release (UK) 1984
+19. Commodore 128 8-Bit Successor Launch (USA) 1985
+20. MS-DOS Operating System First Release (USA) 1981
+
+**Ağ Protokolleri ve İnternetin Temeli**
+21. Ethernet Specification IEEE 802 Published by DIX Alliance (USA) 1980
+22. TCP/IP Protocol Standardized for ARPANET (USA) 1982
+23. SMTP Simple Mail Transfer Protocol Standardized (USA) 1982
+24. ARPANET Transition to TCP/IP Complete (USA) 1983
+25. Domain Name System DNS Introduced (USA) 1984
+26. National Science Foundation Network NSFNET Founded (USA) 1985
+27. ARPANET Split into MILNET and ARPANET (USA) 1983
+28. BITNET Academic Computer Network Established (USA) 1981
+29. MILNET Defense Data Network Operational (USA) 1984
+30. TAT-8 First Transatlantic Optical Fiber Cable (USA/Europe) 1988
+31. FidoNet Bulletin Board System Network Launch (USA) 1984
+32. UUCP Network Expansion and USENET Growth (USA) 1981
+33. Internet Assigned Numbers Authority IANA Established (USA) 1988
+34. WHOIS Protocol Implementation for Domains (USA) 1982
+35. FTP File Transfer Protocol Standardization (USA) 1985
+36. NNTP Network News Transfer Protocol (USA) 1986
+37. SLIP Serial Line Internet Protocol (USA) 1984
+38. PPP Point-to-Point Protocol Development (USA) 1989
+39. Internet Society ISOC Founded (Global) 1992
+40. Classless Inter-Domain Routing CIDR Introduced (USA) 1993
+
+**GUI, Yayıncılık ve Arabirimler**
+41. Xerox Star Workstation Graphical Interface Launch (USA) 1981
+42. Apple Macintosh 128K Personal Computer Release (USA) 1984
+43. Microsoft Windows 1.0 Commercial Release (USA) 1985
+44. Aldus PageMaker Desktop Publishing Revolution (USA) 1985
+45. Adobe PostScript Page Description Language Launch (USA) 1985
+46. HyperCard Hypermedia System Released by Apple (USA) 1987
+47. Ventura Publisher Desktop Software Launch (USA) 1986
+48. QuarkXPress Layout Software Release (USA) 1987
+49. Adobe Illustrator Vector Graphics Launch (USA) 1987
+50. CorelDRAW Graphics Suite Debut (Canada) 1989
+51. Microsoft Windows 2.0 Overlapping Windows (USA) 1987
+52. Apple Macintosh II Modular Color Graphics (USA) 1987
+53. IBM OS/2 Presentation Manager GUI (USA) 1988
+54. NeXTSTEP Object-Oriented Interface (USA) 1989
+55. Microsoft Windows 3.0 Commercial Success (USA) 1990
+56. Apple System 7 Cooperative Multitasking (USA) 1991
+57. C++ Programming Language First Commercial Release (USA) 1985
+58. SQL Database ISO Standardization Initiative (Global) 1986
+59. MIDI Standard Specification Published (Global) 1983
+60. SCSI-1 Bus Interface Standard Approved (USA) 1986
+
+**İş İstasyonları ve Unix Ekosistemi**
+61. SPARC RISC Processor Architecture Introduced by Sun (USA) 1987
+62. Acorn Archimedes ARM Processor Computer (UK) 1987
+63. IBM RT PC RISC Workstation Architecture (USA) 1986
+64. NeXT Computer Development Initiative Founded (USA) 1985
+65. Microsoft OS/2 Joint Development Release (USA) 1987
+66. X Window System Initial Release at MIT (USA) 1984
+67. PERL Programming Language First Release (USA) 1987
+68. Cisco System AGS Router Network Deployment (USA) 1987
+69. Silicon Graphics IRIS 4D Workstation Series (USA) 1987
+70. IBM RS/6000 POWER Architecture Workstations (USA) 1990
+71. Apollo Computer Domain Workstations (USA) 1981
+72. Sun Microsystems Sun-1 Workstation Launch (USA) 1982
+73. Hewlett-Packard HP 9000 Series Unix Workstations (USA) 1984
+74. Digital Equipment Corporation VAXstation (USA) 1984
+75. MIPS R2000 RISC Microprocessor Architecture (USA) 1985
+76. Berkeley Software Distribution BSD 4.3 Release (USA) 1986
+77. GNU Compiler Collection GCC First Release (USA) 1987
+78. Linux Kernel 0.01 Initial Source Code Release (Finland) 1991
+79. FreeBSD Operating System First Release (USA) 1993
+80. Apache HTTP Server Software Launch (USA) 1995
+
+**Taşınabilir Bilişim ve PDA'lar**
+81. Apple PowerBook 100 Series Laptops Introduced (USA) 1991
+82. Psion Organiser Handheld Computer Debut (UK) 1984
+83. Atari Portfolio First Palmtop Computer (USA/UK) 1989
+84. Apple Newton PDA Architecture Announced (USA) 1992
+85. Apple Newton MessagePad Commercial Release (USA) 1993
+86. IBM ThinkPad 700C Laptop Architecture Introduced (USA) 1992
+87. IBM ThinkPad 755CD Built-in CD-ROM Laptop (USA) 1994
+88. Palm Pilot 1000 Handheld PDA Release (USA) 1996
+89. Sharp Pocket Computer PC-1600 Release (Japan) 1986
+90. Epson HX-20 Portable Computer Pioneer (Japan) 1982
+91. Toshiba T1100 Laptop Mass Market (Japan) 1985
+92. Compaq LTE Portable Notebook Launch (USA) 1989
+93. Apple PowerBook Duo Subnotebook Series (USA) 1992
+94. IBM Palm Top PC110 Device (Japan) 1989
+95. HP 95LX Palmtop PC Launch (USA) 1991
+96. Psion Series 3 PDA Platform Launch (UK) 1991
+97. Microsoft Windows CE Embedded Release (USA) 1996
+98. Handspring Visor PDA Modular Expansion (USA) 1999
+99. Nokia 9000 Communicator Convertible Smartphone (Finland) 1996
+100. IBM Simon Personal Communicator Smartphone Precursor (USA) 1993
+
+**Web'in Doğuşu ve Ticarileşmesi**
+101. World Wide Web Proposal by Tim Berners-Lee (Switzerland) 1989
+102. WorldWideWeb First Web Browser Created (Switzerland) 1990
+103. CERN Releases World Wide Web to Public (Switzerland) 1991
+104. NCSA Mosaic Web Browser Development Starts (USA) 1992
+105. NCSA Mosaic 1.0 Web Browser Release (USA) 1993
+106. Netscape Navigator Web Browser Release (USA) 1994
+107. IRC Internet Relay Chat Protocol Created (Finland) 1988
+108. PGP Pretty Good Privacy Encryption Release (USA) 1990
+109. Electronic Frontier Foundation EFF Founded (USA) 1990
+110. ARPANET Officially Ceases Operation (USA) 1990
+111. ViolaWWW Early Graphical Web Browser (USA) 1992
+112. Lynx Text-Based Web Browser Launch (USA) 1992
+113. Cello First Web Browser for Windows (USA) 1993
+114. Spyglass Mosaic Commercial Licensing (USA) 1994
+115. Opera Web Browser Initial Release (Norway) 1996
+116. Internet Explorer 1.0 Browser Release (USA) 1995
+117. JavaScript Programming Language Invented (USA) 1995
+118. SSL Secure Sockets Layer Encryption Protocol (USA) 1995
+119. Flash Macromedia FutureWave Acquisition (USA) 1996
+120. W3C World Wide Web Consortium Founded (USA/Europe) 1994
+
+---
+
+# II. UZAY, ASTRONOMİ VE SAVUNMA TEKNOLOJİLERİ (50 Madde)
+
+**Uzay Keşfi ve Gözlem**
+121. NASA Solar Maximum Mission Launch (USA) 1980
+122. Space Shuttle Columbia STS-1 First Orbital Flight (USA) 1981
+123. Soviet Venera 13 Venus Surface Lander Mission (USSR) 1981
+124. NASA Galileo Probe Jovian Mission Authorization (USA) 1981
+125. Space Shuttle Spacelab 1 Scientific Mission (USA/Europe) 1983
+126. IRAS Infrared Astronomical Satellite Mission (USA/UK/Netherlands) 1983
+127. NASA Manned Maneuvering Unit Space Walk (USA) 1984
+128. Soviet Vega Program Twin Venus/Halley Probes (USSR) 1984
+129. Voyager 2 Uranus Flyby Exploration Mission (USA) 1986
+130. Giotto Spacecraft Comet Halley Intercept (Europe) 1986
+131. Soviet Mir Space Station Core Module Launched (USSR) 1986
+132. Voyager 2 Neptune Flyby Spacecraft Encounter (USA) 1989
+133. Magellan Venus Radar Mapper Spacecraft Launch (USA) 1989
+134. Galileo Jupiter Probe Deployed from Space Shuttle (USA) 1989
+135. Hubble Space Telescope Orbital Deployment (USA/Europe) 1990
+136. Ulysses Solar Polar Space Probe Launch (USA/Europe) 1990
+137. COBE Cosmic Background Explorer Satellite Launch (USA) 1989
+138. Clementine Spacecraft Lunar Ice Mapping Mission (USA) 1994
+139. Shoemaker-Levy 9 Jupiter Impact Observation (Global) 1994
+140. Cassini-Huygens Mission Launch to Saturn (USA/Europe) 1997
+141. Mars Observer Spacecraft Launch (USA) 1992
+142. Mars Pathfinder and Sojourner Rover Launch (USA) 1996
+143. Mars Pathfinder Sojourner Rover Lands on Mars (USA) 1997
+144. SOHO Solar and Heliospheric Observatory Launch (Europe/USA) 1995
+145. Space Shuttle Endeavour Hubble Servicing Mission 1 (USA) 1993
+
+**Ağır Savunma ve Soğuk Savaş Sistemleri**
+146. NORAD Missile Warning Computer False Alarm Audit (USA) 1980
+147. Strategic Defense Initiative Announced (USA) 1983
+148. F-117 Nighthawk Stealth Fighter Operational (USA) 1984
+149. B-2 Spirit Stealth Bomber Construction Authorization (USA) 1984
+150. B-1B Lancer Strategic Bomber Enters Service (USA) 1985
+151. Soviet Su-27 Flanker Air Superiority Deployment (USSR) 1983
+152. Soviet Typhoon-class Nuclear Submarine Deployment (USSR) 1981
+153. Soviet K-278 Komsomolets Titanium Submarine Launch (USSR) 1983
+154. Soviet An-124 Ruslan Transport Aircraft First Flight (USSR) 1982
+155. Soviet An-225 Mriya Cargo Plane Engineering (USSR) 1988
+156. Soviet Su-25 Frogfoot Close Air Support Operations (USSR) 1985
+157. B-2 Spirit Stealth Bomber Public Unveiling (USA) 1988
+158. Soviet Kirov-class Battlecruiser Frunze Trials (USSR) 1989
+159. NASP Rockwell X-30 Hypersonic Spaceplane Program (USA) 1988
+160. ASCI Accelerated Strategic Computing Initiative (USA) 1993
+161. ASCI Red Supercomputer Contract Awarded (USA) 1996
+162. GPS Block II Operational Satellite Program (USA) 1987
+163. GPS Global Positioning System Initial Operational Capability (USA) 1993
+164. GPS System Reaches Full Operational Capability (USA) 1995
+165. Motorola Iridium Satellite Constellation Proposal (USA) 1990
+
+**Sivil Havacılık ve Ulaşım**
+166. TGV High-Speed Train Commercial Service Debut (France) 1981
+167. Boeing 777 Computer-Designed Airliner First Flight (USA) 1994
+168. Airbus A320 Fly-by-Wire Commercial Introduction (Europe) 1988
+169. Channel Tunnel Undersea Rail Link Completion (UK/France) 1994
+170. LORAN-C Navigation Chain Expansion (USA) 1986
+
+---
+
+# III. TÜKETİCİ ELEKTRONİĞİ VE EĞLENCE ENDÜSTRİSİ (40 Madde)
+
+**Taşınabilir Ses, Video ve Fotoğraf**
+171. Sony Walkman WM-1 Global Expansion (Japan) 1980
+172. Compact Disc Digital Audio System Launch (Japan/Netherlands) 1982
+173. Sony Discman Portable CD Player Launch (Japan) 1984
+174. Sony Betamovie All-in-One Camcorder (Japan) 1983
+175. Sony Video8 Handheld Format Expansion (Japan) 1986
+176. Digital Audio Tape DAT Commercial Launch (Japan) 1987
+177. CD-Interactive CD-i Format Specification (Japan/Netherlands) 1987
+178. Sony Mavica Electronic Still Camera (Japan) 1988
+179. Philips Digital Compact Cassette DCC Launch (Netherlands) 1992
+180. Sony MiniDisc Format Commercial Release (Japan) 1992
+181. Dycam Model 1 First Commercial Digital Camera (USA) 1991
+182. Casio QV-10 LCD Screen Digital Camera (Japan) 1995
+183. Sony Cyber-shot Digital Camera Series Debut (Japan) 1995
+184. LaserDisc Format Home Video Niche (USA/Japan) 1980
+185. VHS vs Betamax Format War Conclusion (Global) 1980s
+186. S-VHS Super Video High-Band Launch (Japan) 1987
+187. Hi8 Video Format Enhancement (Japan) 1989
+
+**Ev Oyun Konsolları ve Oyun Devrimi**
+188. Pac-Man Arcade Game Global Release by Namco (Japan) 1980
+189. Nintendo Family Computer Famicom Launch (Japan) 1983
+190. Nintendo Entertainment System NES North American Debut (USA/Japan) 1985
+191. Sega Genesis Mega Drive 16-Bit Launch (Japan) 1988
+192. Super Nintendo Entertainment System SNES Release (Japan) 1990
+193. Sony PlayStation 3D Console Launch (Japan) 1994
+194. Sega Saturn 32-Bit Gaming Architecture Launch (Japan) 1994
+195. Nintendo 64 64-Bit Console Launch (Japan) 1996
+196. Game Boy Handheld Gaming Console Launch (Japan) 1989
+197. Nintendo Virtual Boy 3D Console Launch (Japan) 1995
+198. 3DO Interactive Multiplayer Console Launch (USA) 1993
+199. Atari Jaguar 64-bit Architecture Console (USA) 1993
+200. Sega CD Console Add-On Launch (Japan) 1991
+201. Nintendo Power Glove Motion Controller Launch (Japan/USA) 1989
+202. Grand Theft Auto Open-World Game Architecture (UK) 1997
+203. Sega Dreamcast Online Console Pioneer (Japan) 1998
+204. Sony PocketStation Memory Card Peripheral (Japan) 1999
+
+**PC Eğlencesi, Ses ve Animasyon**
+205. VGA Video Graphics Array Standard Introduced (USA) 1987
+206. Sound Blaster Audio Card PC Standard (Singapore) 1989
+207. Creative Labs Sound Blaster Pro Audio Standard (Singapore) 1991
+208. Sound Designer II Waveform Audio Format Debut (USA) 1989
+209. Video Toaster Desktop Video Revolution (USA) 1990
+210. Toy Story First Fully Computer-Animated Feature (USA) 1995
+
+---
+
+# IV. BİLİM, TIP VE MALZEME DEVRİMİ (40 Madde)
+
+**Tıp, Biyoteknoloji ve Genetik**
+211. Artificial Heart Jarvik-7 Human Implant (USA) 1982
+212. General Electric Medical Systems MRI Scanner Rollout (USA) 1985
+213. PET Scan Positron Emission Tomography Clinical Use (USA) 1980
+214. Cochlear Implant Multi-Channel Approval (Australia/USA) 1982
+215. Prozac SSRI Antidepressant Market Launch (USA) 1987
+216. DNA Fingerprinting Forensic Identification First Use (UK) 1985
+217. Polymerase Chain Reaction PCR Invention (USA) 1983
+218. First Human Gene Therapy Clinical Trial (USA) 1990
+219. Dolly the Sheep First Mammal Cloning (UK) 1996
+220. Human Genome Project Official Launch (Global) 1990
+221. Laparoscopic Cholecystectomy Breakthrough 1987
+222. Laparoscopic Surgery Minimally Invasive Boom (USA) 1985
+223. Zidovudine AZT First HIV Treatment Approval (USA) 1987
+224. Recombinant Human Insulin Market Launch (USA) 1982
+225. Viagra Sildenafil Pharmaceutical Release (USA) 1998
+
+**Fizik, Malzeme Bilimi ve Nanoteknoloji**
+226. High-Temperature Superconductivity Discovery (Switzerland) 1986
+227. Scanning Tunneling Microscope STM Invention (Switzerland) 1981
+228. Buckminsterfullerene C60 Molecule Discovery (UK/USA) 1985
+229. Carbon Nanotube Structure Observed (Japan) 1991
+230. Atomic Clock Precision Standards NIST (USA) 1990s
+231. Kevlar Fiber Mass Commercialization Expansion (USA) 1980s
+232. Shape Memory Alloy Nitinol Medical Applications (USA) 1980s
+233. Aerogel 'Frozen Smoke' Advanced Insulation (USA) 1980s
+234. Yttrium Barium Copper Oxide YBCO Superconductor (USA) 1987
+235. Atomic Force Microscope AFM Invention (Switzerland) 1986
+
+**Çevre, Enerji ve Robotik**
+236. Montreal Protocol Ozone Layer Protection (Global) 1987
+237. IPCC Intergovernmental Panel on Climate Change (Global) 1988
+238. Silicon Solar Cell Efficiency Breakthroughs (Global) 1980s
+239. Honda ASIMO Predecessor P-Series Robotics (Japan) 1993
+240. Rodney Brooks Behavior-Based Robotics MIT (USA) 1989
+241. First Commercial Wind Farm Installation (USA) 1980
+242. Lithium-Ion Battery Commercialization (Japan) 1991
+243. Hybrid Electric Vehicle Toyota Prius Launch (Japan) 1997
+244. General Motors EV1 Production Electric Car (USA) 1996
+245. GM Impact Electric Concept Car Vision (USA) 1990
+246. Mars Sojourner Rover Autonomous Navigation (USA) 1997
+247. Denning Mobile Robot Commercial Pioneer (USA) 1980s
+248. Deep Blue Chess Supercomputer Match vs Kasparov (USA) 1996
+249. IBM Deep Blue Defeats World Chess Champion (USA) 1997
+250. Cray X-MP Supercomputer Architecture Unveiled (USA) 1982
+
+---
+
+# V. SİBERPUNK VİZYONLAR, MEGAPROJELER VE TEKNO-ÜTOPYALAR (50 Madde)
+
+**Radikal Mimariler ve Mega-Yapılar**
+251. Shimizu Mega-City Pyramid Concept Unveiled (Japan) 1989
+252. Sky City 1000 Vertical City Concept (Japan) 1992
+253. Kansai International Airport Artificial Island (Japan) 1994
+254. Oresund Bridge Denmark-Sweden Fixed Link Concept (Europe) 1991
+255. Itaipu Dam Hydroelectric Megaproject Operation (Brazil/Paraguay) 1984
+256. Biosphere 2 Closed-Ecosystem Mission Begins (USA) 1991
+257. EPCOT Center – Walt Disney's Vision of Tomorrow Opens (USA) 1982
+258. Superconducting Super Collider Project Site Selection (USA) 1988
+259. CERN Large Electron-Positron Collider Construction (Europe) 1989
+260. Xanadu Project Hypertext System Development (USA) 1980s
+261. The WELL Early Virtual Community Network (USA) 1985
+262. Arcosanti Experimental Town Paolo Soleri (USA) ongoing 1980s
+
+**Sınır Teknolojileri ve Spekülatif Bilim**
+263. Project Daedalus Fusion Rocket Interstellar Concept (UK) 1978 (Retrospective impact 1980s)
+264. Project Orion Nuclear Pulse Propulsion Legacy (USA) 1980s revival
+265. General Magic Secret Handheld Project Formed (USA) 1990
+266. Teledesic Broadband Satellite Constellation Concept (USA) 1990
+267. Prometheus Project Autonomous Vehicle Network Begins (Europe) 1987
+268. High Energy Stereoscopic System Concept (Global) 1991
+269. Wave-packet Quantum Optics Laboratory Tests (USA) 1988
+270. DARPA Packet Radio Network Testbed (USA) 1981
+271. CDC Cyber 205 Supercomputer Installation (USA) 1981
+272. IBM 3081 Mainframe Architecture Expansion (USA) 1982
+273. AT&T DSP32C Digital Signal Processor Architecture (USA) 1989
+274. Transputer T414 Parallel Microprocessor Commercialization (UK) 1986
+275. DEC Alpha 64-bit RISC Microprocessor Architecture (USA) 1992
+276. DEC GiGAswitch High-Speed Networking (USA) 1994
+277. Intel 80386 32-Bit Microprocessor Rollout (USA) 1986
+278. Intel 80486 Processor Microarchitecture Launch (USA) 1989
+279. Intel Pentium Processor Architecture Commercial Launch (USA) 1993
+280. MMX Instruction Set Introduced by Intel (USA) 1996
+281. Pentium II Microprocessor Architecture (USA) 1997
+282. PowerPC Microprocessor Architecture Unveiled (USA) 1993
+283. Flash Memory Invented by Toshiba (Japan) 1984
+284. Minitel National Network Public Rollout (France) 1982
+285. IBM Personal System/2 PS/2 Architecture Launch (USA) 1987
+286. EISA Extended Industry Standard Architecture (USA) 1988
+287. Compaq Deskpro 386/25 Super-Desktop (USA) 1988
+288. Amiga 3000 High-End Computer Architecture (USA) 1990
+289. Commodore Amiga 1000 Multimedia Computer Launch (USA) 1985
+290. Atari ST Computer Architecture Release (USA) 1985
+
+**Siberkültür, Felsefe ve Distopyacı Ağ Vizyonları**
+291. IBM PC/AT 80286 Microprocessor Architecture (USA) 1984
+292. Connection Machine Parallel Computing Prototyping (USA) 1984
+293. HP-150 Touchscreen Computer (USA) 1983
+294. DragonDictate Voice Recognition System for PC (USA) 1994
+295. Unicode Standard 1.0 Published (Global) 1991
+296. Cyberspace Term Coined William Gibson Neuromancer (USA) 1984
+297. Extropy Institute Transhumanism Founded (USA) 1988
+298. Y2K Bug Hysteria and Remediation (Global) 1995-1999
+299. Whole Earth Review Cyberculture Movement (USA) 1980s
+300. Silicon Graphics Crimson Workstation Line (USA) 1991
